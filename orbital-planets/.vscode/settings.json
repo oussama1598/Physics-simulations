@@ -1,0 +1,25 @@
+{
+  "search.exclude": {
+    "node_modules": true,
+    ".tmp": true,
+    ".sass-cache": true,
+    ".idea": true,
+    "dist": true,
+    "src/.env": true,
+    "npm-debug.log": true,
+    "coverage": true,
+    "src/cards": true,
+    "src/config/environment/.db.json": true
+  },
+  "files.exclude": {
+    "node_modules": true,
+    ".tmp": true,
+    ".sass-cache": true,
+    ".idea": true,
+    "dist": true,
+    "src/.env": true,
+    "npm-debug.log": true,
+    "coverage": true,
+    "src/cards": true
+  }
+}
